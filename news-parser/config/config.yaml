@@ -1,0 +1,6 @@
+# Настройки парсера новостей
+source_urls:
+  - https://example.com/news
+  - https://another.com/rss
+output_path: data/articles.csv
+user_agent: NewsParserBot/1.0
